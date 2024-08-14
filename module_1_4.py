@@ -1,0 +1,8 @@
+my_snring=input('Введите текст:  ')
+print(my_snring .upper())
+print(my_snring.lower())
+print(my_snring.replace(' '  ,'#'))
+print(my_snring .replace(' ',''))
+print(my_snring .replace('Привет , мой друг', 'П'))
+print(my_snring .replace('Привет , мой друг' ,'г'))
+print(len(my_snring))
